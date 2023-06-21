@@ -1,0 +1,30 @@
+<html>
+	<head>
+	<title>E-portfolio</title>
+	<style type="text/css">
+	body {
+	background-size: cover;
+	background-repeat: no-reapeat;
+	margin-left: 20%
+	margin-right: 20%
+	border: 1px dotted gray
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+	}
+	</style>
+	</head>
+	<center>
+	<body>
+	<marquee style="font-size:40pt;"scrollamount="10" direction="right"
+	behavior="alternate"><b>E-portfolio Sarthak</b></marquee>
+	<h1 style="color:#00FA9A;">4 Corners</h1>
+	<img src="bloop2.png" width="600px">
+	<h2 style="color:#00FA9A;">Magazine Cover</h2>
+	<img src="bloop.png" width="300px">
+	<h2 style="color:#00FA9A;">Starbutz Menu</h2>
+	<img src="loop.png" width="600px">
+	<h2 style="color:#00FA9A;">Head First Lounge</h2>
+	<img src="op.png" width="600px">
+	</center>
+	</body>
+</html>
